@@ -3,6 +3,7 @@ import React from 'react'
 import AceEditor from 'react-ace'
 import 'brace/mode/markdown'
 import 'brace/theme/cobalt'
+import './Editor.css'
 
 const Editor = ({onChange, value}) =>
   <div className='editor'>

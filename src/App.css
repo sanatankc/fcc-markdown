@@ -58,13 +58,3 @@ ul {
     ul li.mac-btn:nth-child(3) {
       background-color: #d2d2d2;
       border: 1px solid #b9b9b9; }
-
-.preview {
-  width: 50%;
-  overflow: scroll;
-  height: calc(100vh - 220px);
-  background: white;
-  display: inline-block; }
-
-.editor {
-  display: inline-block; }

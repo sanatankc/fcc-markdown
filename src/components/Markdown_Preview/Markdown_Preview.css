@@ -1,0 +1,6 @@
+.preview {
+  width: 50%;
+  overflow: scroll;
+  height: calc(100vh - 220px);
+  background: white;
+  display: inline-block; }
